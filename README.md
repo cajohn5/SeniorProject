@@ -1,4 +1,4 @@
-# Senior Project- Windows and Doors
+# Senior Project - Windows and Doors
 I chose to present this code from my senior project in order to showcase one of the most complex pieces I worked on in a collaborative environment. The program itself is intended to solve the problem of having to manually calculate costs for products that have many variables which change the final cost. It also alerts users when their requests are invalid in cases such as a window not meeting either the minimum height or width threshold. In these cases, calculations are not made because the requested item is not possible for the company to create.
 # Using the Application
 In order to use the application, you should download the entire project, maintaining the file structure and run the program from run.java in Eclipse. A window should appear with a drop down list. Select a product from this list to open a new window with a product calculator. 
